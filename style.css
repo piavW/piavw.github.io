@@ -1,9 +1,42 @@
-h1 {
-    color: #0066ff
-}
-p {color: #17202A
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: lightblue;
+    color: black;
+    text-align: center;
 }
 
+#navbar {
+    padding: 20px 0;
+    font-size: 24px;
+}
+#navbar > ul {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    padding: 0;
+    list-style-type: none;
+}
+h1 {
+    color: lightblue;
+}
+
+p {
+    color: #17202A
+}
+
+strong {
+    color: black
+}
+
+
+body {
+    font-size: 18px;
+    width: 100%;
+    text-align: center;
+}
 
 footer {
   position: fixed;
