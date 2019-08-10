@@ -1,3 +1,15 @@
 h1 {
-    color: €0066ff
+    color: #0066ff
+}
+p {color: #17202A
+}
+
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: black;
+  text-align: center;
 }
